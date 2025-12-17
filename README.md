@@ -1,2 +1,2 @@
 Getting better at DSA and problem solving that's all...
-Working directly on main branch for now, hopefully this doesn't trigger anyone. ~Vicente
+Working directly on main so what?
